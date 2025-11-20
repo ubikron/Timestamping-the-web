@@ -15,8 +15,10 @@ The video of the presentation can be viewed on the YouTube channel of OSINTAmbit
 
 View slides:
 
-[Timestamping the web PDF](https://github.com/ubikron/Timestamping-the-web/blob/21f3127c59128445deb59d575f141a74a909f8ba/Timestamping%20the%20web.pdf)
+[Timestamping the web slides in PDF](https://github.com/ubikron/Timestamping-the-web/blob/5a06ecc3dcf241a18bdaf7f5128bee3e9024bfb5/Timestamping%20the%20web-nn.pdf)
 
+
+---
 
 Here is a list of tools that are used or mentioned in the talk.
 
