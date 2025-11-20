@@ -29,11 +29,9 @@ Here is a list of tools that are used or mentioned in the talk.
 
 [Beautifier IO](https://beautifier.io/)
 
-[JSONCrack](https://jsoncrack.com/)
-
 [META Narka](https://meta.narka.io/)
 
-[Online Exif Viewer](https://onlineexifviewer.com/)
+[JIMPL - image meta data viewer](https://jimpl.com/)
 
 [Epoch Converter](https://www.epochconverter.com/)
 
